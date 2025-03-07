@@ -51,7 +51,7 @@
                         <name>${project.groupId}/order.service:${project.version}</name>
                     </image>
                     <docker>
-                        <host>//./pipe/dockerDesktopLinuxEngine</host>
+                        <host>//./pipe/docker_engine</host>
                     </docker>
                 </configuration>
                 <executions>
