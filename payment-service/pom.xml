@@ -17,7 +17,7 @@
         <module>payment-messaging</module>
         <module>payment-container</module>
         <module>payment-domain/payment-domain-core</module>
-        <module>payment-domain/payment-domain-service</module>
+        <module>payment-domain/payment-application-service</module>
     </modules>
 
 
